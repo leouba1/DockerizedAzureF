@@ -1,0 +1,8 @@
+C:\Users\luba\Documents\SouthWorks\DockerizedAzureF\wwwroot\bin\netstandard2.0\factorial.deps.json
+C:\Users\luba\Documents\SouthWorks\DockerizedAzureF\wwwroot\bin\netstandard2.0\factorial.dll
+C:\Users\luba\Documents\SouthWorks\DockerizedAzureF\wwwroot\bin\netstandard2.0\factorial.pdb
+C:\Users\luba\Documents\SouthWorks\DockerizedAzureF\obj\Debug\netstandard2.0\factorial.csproj.CoreCompileInputs.cache
+C:\Users\luba\Documents\SouthWorks\DockerizedAzureF\obj\Debug\netstandard2.0\factorial.AssemblyInfoInputs.cache
+C:\Users\luba\Documents\SouthWorks\DockerizedAzureF\obj\Debug\netstandard2.0\factorial.AssemblyInfo.cs
+C:\Users\luba\Documents\SouthWorks\DockerizedAzureF\obj\Debug\netstandard2.0\factorial.dll
+C:\Users\luba\Documents\SouthWorks\DockerizedAzureF\obj\Debug\netstandard2.0\factorial.pdb
